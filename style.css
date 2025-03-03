@@ -1,0 +1,29 @@
+* { 
+    font-size: 12px;
+}
+    
+body { 
+    background-color: hsl(30, 54%, 90%); 
+    display: flex; 
+    justify-content: center;
+}
+    
+.container { 
+    background-color: hsl(0, 0%, 100%); 
+    width: 50%; 
+}
+    
+.omelette {
+    object-fit: cover;
+}
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+    
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
